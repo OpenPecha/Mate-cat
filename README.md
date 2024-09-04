@@ -6,15 +6,15 @@ The documentation might raise doubts about whether it is feasible to run MateCat
 
 ## How to use
 
-```bash
+
 To Deploy
+
+```bash
 docker-compose up -d
 ```
-To Dev
-docker-compose watch
 
 ```
-Volume mounted on /apache/app
+docker-compose watch
 ```
 and display the mail queue log file:
 
