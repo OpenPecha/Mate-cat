@@ -7,13 +7,14 @@ The documentation might raise doubts about whether it is feasible to run MateCat
 ## How to use
 
 ```bash
-docker compose up -d
+To Deploy
+docker-compose up -d
 ```
-
-To upload a file for translation, first sign up locally. After selecting 'Sign Up' from the top-right user icon, access the Apache Docker container by entering:
+To Dev
+docker-compose watch
 
 ```
-docker-compose exec apache /bin/bash
+Volume mounted on /apache/app
 ```
 and display the mail queue log file:
 
