@@ -12,6 +12,7 @@ To Deploy
 ```bash
 docker-compose up -d
 ```
+To Dev
 
 ```
 docker-compose watch
