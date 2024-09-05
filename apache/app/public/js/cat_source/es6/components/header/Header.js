@@ -154,7 +154,7 @@ class Header extends React.Component {
                     </li>
                     <li>
                       <a href="https://site.matecat.com/outsourcing/">
-                        Outsourced
+                        Outsource
                       </a>
                     </li>
                     <li>
