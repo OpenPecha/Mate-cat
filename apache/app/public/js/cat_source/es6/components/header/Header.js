@@ -147,7 +147,7 @@ class Header extends React.Component {
                 <div>
                   <ul id="menu-site">
                     <li>
-                      <a href="https://site.matecat.com">Aboutsssss</a>
+                      <a href="https://site.matecat.com">About</a>
                     </li>
                     <li>
                       <a href="https://site.matecat.com/benefits/">Benefits</a>
@@ -158,7 +158,7 @@ class Header extends React.Component {
                       </a>
                     </li>
                     <li>
-                      <a href="https://guides.matecat.com/">User Guides</a>
+                      <a href="https://guides.matecat.com/">User Guide</a>
                     </li>
                     {/*<li><a href="/plugins/aligner/index"  target="_blank" className={"btn btn-primary"}>Aligner</a></li>*/}
                     {this.getMoreLinks()}

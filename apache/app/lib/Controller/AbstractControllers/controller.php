@@ -164,7 +164,7 @@ abstract class controller implements IController {
                     !empty( $loggedUser->uid ) &&
                     !empty( $loggedUser->email ) &&
                     !empty( $loggedUser->first_name ) &&
-                    !empty( $loggedUser->last_naame )
+                    !empty( $loggedUser->last_name )
             );
 
         } catch ( Exception $e ) {
